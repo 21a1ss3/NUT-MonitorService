@@ -1,0 +1,6 @@
+﻿(type.name.and.namespace) { 
+	propname = "string value",
+	UnsetProp = <unset>,
+	NullProp = (someType) null,
+	IntProp = 5
+}

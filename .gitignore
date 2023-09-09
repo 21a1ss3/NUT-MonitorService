@@ -1,0 +1,7 @@
+$tf/
+*.vssscc
+*.vspscc
+.vs/
+bin/
+obj/
+NUT-MonitorService/Sensetive/DB/Wallet/
